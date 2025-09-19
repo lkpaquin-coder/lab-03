@@ -2,7 +2,9 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Chatgpt. (n.d.-a). https://chatgpt.com/  - Used to check work and understanding
+Best practice for instantiating a new Android fragment. Stack Overflow. (2015, December 7). https://stackoverflow.com/questions/9245408/best-practice-for-instantiating-a-new-android-fragment  -  Used for learning
+TAs - Help during Lab
 
 ## Verbal Collaboration
 
